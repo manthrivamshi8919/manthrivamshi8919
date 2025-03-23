@@ -1,19 +1,27 @@
 # 🚀 Vamshi Manthri | Java Full Stack Developer & Problem Solver
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0F2027,203A43,2C5364&height=200&section=header&text=VAMSHI%20MANTHRI&fontSize=65&animation=twinkling
 
-  
+  <!-- Fancy Header with Gradient Effect -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=200&section=header&text=VAMSHI%20MANTHRI&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%">
+
+  <!-- Profile Info Badges -->
+  <br>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=manthrivamshi8919&style=plastic" alt="Profile Views">
-    <a href="https://www.linkedin.com/in/vamshimanthri123">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=plastic&logo=linkedin" alt="LinkedIn Badge">
+    <img src="https://komarev.com/ghpvc/?username=manthrivamshi8919&style=flat-square&color=blue" alt="Profile Views">
+    <a href="https://www.linkedin.com/in/vamshimanthri123" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
     </a>
-    <a href="mailto:manthrivamshi1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-red?style=plastic&logo=gmail" alt="Email Badge">
+    <a href="mailto:manthrivamshi1@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email Badge">
     </a>
   </p>
+
+  <!-- Short Tagline -->
+  <h3>👋 Hi there! I'm Vamshi Manthri, a passionate Software Developer and Trailhead Ranger 🚀</h3>
+
 </div>
+
 
 ## 💡 Personal Motto
 
