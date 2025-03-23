@@ -1,183 +1,88 @@
+# 👋 Hello, I'm Vamshi Manthri!
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello+World!+I'm+Manthri+Vamshi;Java+Full+Stack+Developer;Blockchain+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0F7EF2&center=true&vCenter=true&random=false&width=435&lines=Java+Full+Stack+Developer;Problem+Solver;Backend+Enthusiast" alt="Typing SVG" />
 </div>
 
-<!-- Profile Banner -->
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" width="100%">
+## 💫 About Me
 
-<!-- Badges Section -->
-<div align="center">
-  <a href="https://github.com/manthrivamshi8919">
-    <img src="https://img.shields.io/github/followers/manthrivamshi8919?label=Followers&style=social" alt="GitHub Badge">
+I'm an enthusiastic Java Full Stack Developer and final-year Computer Science student at Jayamukhi Institute of Technological Sciences. My journey in software development has been driven by a passion for building robust applications and solving complex problems.
+
+- 🔭 Currently working as a **Java Full Stack Developer Trainee** at Nirmaan Organization
+- 🌱 Focused on mastering **Java, Full Stack Web Development, and Blockchain Technology**
+- 👨‍💻 All of my projects are available at [github.com/manthrivamshi8919](https://github.com/manthrivamshi8919)
+- 💬 Ask me about **Java, Web Development, and Problem Solving**
+- 📫 Reach me at: **manthrivamshi1@gmail.com**
+- 🏠 Location: Hyderabad, Telangana, India
+
+## 🌐 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vamshimanthri123" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/vamshimanthri123">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.codechef.com/users/manthri_vamshi" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
   <a href="mailto:manthrivamshi1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
-<!-- Introduction Section -->
-<h2 align="center">
-  👨‍💻 Who am I? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-</h2>
-
-```javascript
-const vamshi = {
-  education: "B.Tech CSE @ Jayamukhi Institute of Technological Sciences",
-  role: "Java Full Stack Developer",
-  languagesAndTools: ["Java", "JSP", "Servlets", "HTML", "CSS", "JavaScript", "MySQL", "Git"],
-  interests: ["Backend Development", "Blockchain Technology", "Problem Solving"],
-  currentFocus: "Building scalable applications with Java and exploring blockchain solutions",
-  funFact: "Solved 250+ coding problems on CodeChef"
-}
-```
-
-<!-- Tech Stack Section -->
-<h2 align="center">🛠 Tech Stack</h2>
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <a href="https://github.com/manthrivamshi8919">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manthrivamshi8919&show_icons=true&theme=algolia&count_private=true" alt="Vamshi's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthrivamshi8919&layout=compact&theme=algolia" alt="Vamshi's Top Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthrivamshi8919&theme=algolia" alt="GitHub Streak"/>
-</p>
-
-<!-- Projects Section -->
-<h2 align="center">🚀 Highlighted Projects</h2>
+## 💻 Tech Stack:
 
 <div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthrivamshi8919&repo=blockchain-blood-donation&theme=algolia" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manthrivamshi8919&repo=social-media-health-monitoring&theme=algolia" />
-  </a>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
 </div>
 
-<!-- Professional Journey -->
-<h2 align="center">✨ Professional Journey</h2>
+## 🏆 Achievements:
+- 💎 100 Days Coding Streak Diamond Badge
+- 🧩 Solved 250+ Problems on CodeChef
+- 🌟 Completed multiple virtual internships in diverse technologies
 
+## 📚 Education:
+- 🎓 Bachelor of Technology in Computer Science (2021 - 2025)
+  - Jayamukhi Institute of Technological Sciences
+
+## 🔥 My Experience:
+- **Java Full Stack Developer Trainee** at Nirmaan Organization (Feb 2025 - Present)
+- **Salesforce Administrator Virtual Internship** at SmartInternz (May 2024 - Jun 2024)
+- **Cyber Security Virtual Internship** at Connecting Dreams Foundation (May 2024 - Jun 2024)
+- **Full Stack Web Development** and **AI & Cloud Virtual Internships** at Edunet Foundation (Feb 2024 - Apr 2024)
+- **Salesforce Developer Virtual Internship** at SmartInternz (Nov 2023 - Jan 2024)
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manthrivamshi8919&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthrivamshi8919&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthrivamshi8919&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manthrivamshi8919&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+---
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <h3 align="center">🏗 Projects</h3>
-        <div align="center">
-          <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/Blockchain.gif" width="180">
-          <p><strong>Blockchain-based Blood Donation System</strong><br>Secure blood donation management using Ethereum and IPFS</p>
-          <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/AI_ML.gif" width="180">
-          <p><strong>Social Media Health Monitoring</strong><br>Health trend analysis using Twitter data and TM-ATAM models</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🏆 Certifications</h3>
-        <ul>
-          <li>✅ Full Stack Web Development – Edunet Foundation</li>
-          <li>✅ AI/Cloud Virtual Internship – Edunet Foundation</li>
-          <li>✅ Salesforce Developer – Smart Internz</li>
-          <li>✅ Cybersecurity – Career Dreams Foundation</li>
-          <li>✅ AIML in IoT – NIT Warangal</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <img src="https://komarev.com/ghpvc/?username=manthrivamshi8919&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
-<!-- Activity Graph -->
-<h2 align="center">📈 Activity Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manthrivamshi8919&theme=react-dark" width="100%">
-</p>
-
-<!-- Currently Learning -->
-<h2 align="center">📚 Currently Focusing On</h2>
-
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/Bar_Graph.gif" width="500">
-</p>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>☕ Spring Boot Development</td>
-      <td>🔄 Microservices</td>
-      <td>🔗 Advanced Blockchain</td>
-      <td>☁️ Cloud Deployment</td>
-    </tr>
-  </table>
-</div>
-
-<!-- Coding Challenge Profile -->
-<h2 align="center">💻 Problem Solving</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
-  <br>
-  <b>250+ Problems Solved</b>
-</p>
-
-<!-- Connect Section -->
-<h2 align="center">🔗 Connect With Me</h2>
-
-<p align="center">
-  <i>Let's connect and discuss opportunities or collaborate on projects!</i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vamshimanthri123">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
-  </a>
-  <a href="mailto:manthrivamshi1@gmail.com">
-    <img src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="Gmail" height="30" width="40">
-  </a>
-  <a href="https://github.com/manthrivamshi8919">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40">
-  </a>
-</p>
-
-<!-- Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote">
-</div>
-
-<!-- Footer -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manthrivamshi8919&style=for-the-badge&color=blue" alt="Profile Views">
-</div>
+<!-- Created with love using the information from your LinkedIn profile -->
