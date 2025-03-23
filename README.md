@@ -69,7 +69,7 @@
 |---------------|-------------|------------|
 | Java Programming | ███████████████ 90% | Core Java, Advanced Java |
 | Web Development | ██████████████ 85% | HTML, CSS, JavaScript |
-| Database Management | ████████████ 75% | MySQL, Data Modeling |
+| Database Management | ████████████ 75% | MySQL |
 
 ## 🛠️ Tech Stack Visualization
 
@@ -83,7 +83,7 @@
 timeline
     title Professional Journey
     2021 : Started Computer Science Degree
-    2023 : Salesforce Developer Virtual Internship
+    2024 : Salesforce Developer Virtual Internship
     2024 : Full Stack & AI/Cloud Internships
     2025 : Java Full Stack Developer Trainee
 ```
@@ -121,14 +121,14 @@ timeline
       <th>Technologies</th>
     </tr>
     <tr>
-      <td>🩸 Blockchain-based Blood Donation System</td>
+      <td>🩸 Blockchain-based Management of Blood Donation System</td>
       <td>Secure platform for blood donation tracking and management</td>
-      <td>Java, Ethereum, IPFS</td>
+      <td>Java,HTML,Css,JavaScript,Mysql</td>
     </tr>
     <tr>
-      <td>📱 Social Media Health Monitoring Tool</td>
+      <td>📱 Health Monitoring On Social Media Over Time</td>
       <td>Application for analyzing social media impact on mental health</td>
-      <td>Java, JavaScript, MySQL, Data Analytics</td>
+      <td>Java,HTML,CSS, JavaScript, MySQL, </td>
     </tr>
   </table>
 </div>
@@ -159,12 +159,12 @@ timeline
     <tr>
       <td>🌟 Virtual Internships</td>
       <td>Completed multiple internships in various technology domains</td>
-      <td>2023-2024</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>🧩 CodeChef Problem Solving</td>
       <td>Solved 250+ problems on CodeChef platform</td>
-      <td>2023</td>
+      <td>2024</td>
     </tr>
   </table>
 </div>
