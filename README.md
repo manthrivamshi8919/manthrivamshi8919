@@ -1,4 +1,4 @@
-# 🚀 Vamshi Manthri | Java Full Stack Developer & Problem Solver
+# 🚀 Vamshi Manthri | Java Full Stack Developer
 
 <div align="center">
 
