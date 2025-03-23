@@ -1,7 +1,8 @@
 # 🚀 Vamshi Manthri | Java Full Stack Developer & Problem Solver
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0F2027,203A43,2C5364&height=200&section=header&text=VAMSHI%20MANTHRI&fontSize=65&animation=twinkling" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0F2027,203A43,2C5364&height=200&section=header&text=VAMSHI%20MANTHRI&fontSize=65&animation=twinkling
+
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=manthrivamshi8919&style=plastic" alt="Profile Views">
