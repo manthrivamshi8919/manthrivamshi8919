@@ -1,110 +1,219 @@
-# Hi 👋, I'm Vamshi Manthri!
+# 🚀 Vamshi Manthri | Java Full Stack Developer & Problem Solver
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0F7EF2&center=true&vCenter=true&random=false&width=435&lines=Java+Full+Stack+Developer;Problem+Solver;Backend+Enthusiast" alt="Typing SVG" />
-</div>
-
-## 💫 About Me
-
-I'm an enthusiastic Java Full Stack Developer and final-year Computer Science student at Jayamukhi Institute of Technological Sciences. My journey in software development has been driven by a passion for building robust applications and solving complex problems.
-
-## 🚀 Current Status
-
-- 💼 I'm currently working as a **Java Full Stack Developer Trainee** at Nirmaan Organization
-- 🌱 I'm focused on mastering **Java, Full Stack Web Development, and Blockchain Technology**
-- 👯 I'm looking to collaborate on **Java and Web Development projects**
-- 🤔 I'm looking for help with **Blockchain and Advanced Java concepts**
-- ✍️ I regularly solve problems on [CodeChef](https://www.codechef.com/users/manthri_vamshi)
-- 💬 Ask me about **Java, Web Development, and Problem Solving**
-- 📫 How to reach me: **manthrivamshi1@gmail.com**
-- 🏠 Location: Hyderabad, Telangana, India
-
-## 📝 Languages
-
-- 🔤 Telugu (Native)
-- 🔤 English (Limited Working)
-- 🔤 Hindi (Elementary)
-
-## 💻 Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-</div>
-
-## 🏆 Achievements
-
-- 💎 100 Days Coding Streak Diamond Badge
-- 🧩 Solved 250+ Problems on CodeChef
-- 🌟 Completed multiple virtual internships in diverse technologies
-
-## 🎓 Education
-
-- 🏫 **Bachelor of Technology in Computer Science** (2021 - 2025)
-  - Jayamukhi Institute of Technological Sciences
-- 📚 **MPC** (2019 - 2021)
-  - Sai Sri Junior College
-- 🏫 **High School** (2016 - 2019)
-  - Kerala High School
-
-## 💼 Experience
-
-- 👨‍💻 **Java Full Stack Developer Trainee** at Nirmaan Organization (Feb 2025 - Present)
-- 💼 **Salesforce Administrator Virtual Internship** at SmartInternz (May 2024 - Jun 2024)
-- 🔒 **Cyber Security Virtual Internship** at Connecting Dreams Foundation (May 2024 - Jun 2024)
-- 🌐 **Full Stack Web Development Virtual Internship** at Edunet Foundation (Feb 2024 - Apr 2024)
-- ☁️ **AI & Cloud Virtual Internship** at Edunet Foundation (Feb 2024 - Mar 2024)
-- 💻 **Salesforce Developer Virtual Internship** at SmartInternz (Nov 2023 - Jan 2024)
-
-## 📊 GitHub Stats
-
-<details>
-  <summary>➡️ GitHub Stats</summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=manthrivamshi8919&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthrivamshi8919&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthrivamshi8919&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,9,12&height=200&section=header&text=VAMSHI%20MANTHRI&fontSize=65&animation=twinkling" width="100%">
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=manthrivamshi8919&style=plastic" alt="Profile Views">
+    <a href="https://www.linkedin.com/in/vamshimanthri123">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=plastic&logo=linkedin" alt="LinkedIn Badge">
+    </a>
+    <a href="mailto:manthrivamshi1@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-red?style=plastic&logo=gmail" alt="Email Badge">
+    </a>
   </p>
+</div>
+
+## 💡 Personal Motto
+
+> **Transforming complex problems into elegant solutions through code. Dedicated to building innovative applications that make a difference.**
+
+## 🌟 About Me
+
+<table>
+  <tr>
+    <td width="60%">
+      <p>As a Java Full Stack Developer Trainee with a strong foundation in programming, I'm passionate about building dynamic, responsive applications. My journey is driven by curiosity and a desire to create software solutions that solve real-world problems.</p>
+    </td>
+    <td width="40%">
+      <h3>🎓 Education</h3>
+      <ul>
+        <li>Bachelor of Technology in Computer Science</li>
+        <li>Jayamukhi Institute of Technological Sciences (2021-2025)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## 👨‍💻 Quick Overview
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎯 Focus</h3>
+      <p>Building robust applications using Java and web technologies, with a special interest in backend development and problem-solving.</p>
+    </td>
+    <td width="50%">
+      <h3>📊 Highlights</h3>
+      <ul>
+        <li>🏆 Java Full Stack Developer Trainee</li>
+        <li>💻 Completed multiple virtual internships</li>
+        <li>🧩 250+ Problems solved on CodeChef</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### 🔧 Skill Expertise
+
+| Skill Category | Proficiency | Highlights |
+|---------------|-------------|------------|
+| Java Programming | ███████████████ 90% | Core Java, Advanced Java |
+| Web Development | ██████████████ 85% | HTML, CSS, JavaScript |
+| Database Management | ████████████ 75% | MySQL, Data Modeling |
+
+## 🛠️ Tech Stack Visualization
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,bootstrap,git,github" />
+</div>
+
+### 📈 Career Timeline
+
+```mermaid
+timeline
+    title Professional Journey
+    2021 : Started Computer Science Degree
+    2023 : Salesforce Developer Virtual Internship
+    2024 : Full Stack & AI/Cloud Internships
+    2025 : Java Full Stack Developer Trainee
+```
+
+## 💼 Professional Experience
+
+### 💻 Java Full Stack Developer Trainee at Nirmaan Organization
+*February 2025 - Present*
+<details>
+  <summary>Key Responsibilities</summary>
+  
+  - 🔄 Working on full-stack Java application development
+  - 🧪 Implementing and testing web applications
+  - 🤝 Collaborating with cross-functional teams on project delivery
 </details>
 
-## 🌐 Connect with me
+### ☁️ AI & Cloud Virtual Internship at Edunet Foundation
+*February 2024 - March 2024*
 
-<p align="left">
+<details>
+  <summary>Key Accomplishments</summary>
+  
+  - 🌐 Gained practical experience in cloud technologies
+  - 🤖 Explored AI implementation in real-world scenarios
+  - 📊 Worked on data analysis and visualization projects
+</details>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Technologies</th>
+    </tr>
+    <tr>
+      <td>🩸 Blockchain-based Blood Donation System</td>
+      <td>Secure platform for blood donation tracking and management</td>
+      <td>Java, Ethereum, IPFS</td>
+    </tr>
+    <tr>
+      <td>📱 Social Media Health Monitoring Tool</td>
+      <td>Application for analyzing social media impact on mental health</td>
+      <td>Java, JavaScript, MySQL, Data Analytics</td>
+    </tr>
+  </table>
+</div>
+
+## 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manthrivamshi8919&theme=monokai&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=manthrivamshi8919&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthrivamshi8919&layout=compact&langs_count=7&theme=tokyonight" height="180em" alt="Top Languages"/>
+</div>
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Achievement</th>
+      <th>Description</th>
+      <th>Year</th>
+    </tr>
+    <tr>
+      <td>💎 100 Days Coding Streak</td>
+      <td>Maintained consistent daily coding practice, earning Diamond Badge</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>🌟 Virtual Internships</td>
+      <td>Completed multiple internships in various technology domains</td>
+      <td>2023-2024</td>
+    </tr>
+    <tr>
+      <td>🧩 CodeChef Problem Solving</td>
+      <td>Solved 250+ problems on CodeChef platform</td>
+      <td>2023</td>
+    </tr>
+  </table>
+</div>
+
+## 🏅 Key Accomplishments Showcase
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CodeChef-250+%20Problems%20Solved-success" alt="CodeChef Achievement">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Coding%20Streak-100%20Days%20Diamond-important" alt="Coding Streak">
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🌱 Currently Learning
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F86F7&width=435&lines=Advanced+Java+Technologies;Spring+Framework+%26+Spring+Boot;Blockchain+Development" alt="Learning Focus" />
+</div>
+
+Focus Areas:
+- Advanced Java frameworks and enterprise applications
+- Deepening knowledge in backend development patterns
+- Exploring blockchain technology for secure applications
+
+## 💭 Development Quote
+
+> "The best code is the one that solves real problems while being maintainable and scalable." - Vamshi Manthri
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote">
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <p>**Interested in Java development, problem-solving, or collaborative projects? I'm always open to connecting and exploring new opportunities!**</p>
+  
   <a href="https://www.linkedin.com/in/vamshimanthri123" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://www.codechef.com/users/manthri_vamshi" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge">
   </a>
   <a href="mailto:manthrivamshi1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge">
   </a>
-  <a href="https://github.com/manthrivamshi8919" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-## ⚡ Fun fact
-
-🔥 I maintain coding streaks and love solving algorithmic challenges! 🧠 💻
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manthrivamshi8919&style=flat-square&color=blue" alt="Profile Views" />
-  <br><br>
-  <a href="https://www.buymeacoffee.com/manthrivamshi" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,12&height=100&section=footer" width="100%">
+  
+  **Thanks for visiting my profile. Keep coding, keep growing!** 💻
 </div>
