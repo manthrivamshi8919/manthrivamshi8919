@@ -1,4 +1,4 @@
-# 🚀 Vamshi Manthri | Java Full Stack Developer
+# 🚀 Vamshi Manthri | Full Stack Developer
 
 <div align="center">
 
@@ -55,7 +55,7 @@
     <td width="50%">
       <h3>📊 Highlights</h3>
       <ul>
-        <li>🏆 Java Full Stack Developer Trainee</li>
+        <li>🏆  Full Stack Developer Trainee</li>
         <li>💻 Completed multiple virtual internships</li>
         <li>🧩 250+ Problems solved on CodeChef</li>
       </ul>
@@ -85,20 +85,11 @@ timeline
     2021 : Started Computer Science Degree
     2024 : Salesforce Developer Virtual Internship
     2024 : Full Stack & AI/Cloud Internships
-    2025 : Java Full Stack Developer Trainee
+    2025 : Full Stack Developer Trainee
 ```
 
 ## 💼 Professional Experience
 
-### 💻 Java Full Stack Developer Trainee at Nirmaan Organization
-*February 2025 - Present*
-<details>
-  <summary>Key Responsibilities</summary>
-  
-  - 🔄 Working on full-stack Java application development
-  - 🧪 Implementing and testing web applications
-  - 🤝 Collaborating with cross-functional teams on project delivery
-</details>
 
 ### ☁️ AI & Cloud Virtual Internship at Edunet Foundation
 *February 2024 - March 2024*
