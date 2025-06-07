@@ -74,7 +74,7 @@
 ## 🛠️ Tech Stack Visualization
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,bootstrap,nodejs,reactjs, typescript,git,github" />
 </div>
 
 ### 📈 Career Timeline
