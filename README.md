@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td width="60%">
-      <p>As a Java Full Stack Developer Trainee with a strong foundation in programming, I'm passionate about building dynamic, responsive applications. My journey is driven by curiosity and a desire to create software solutions that solve real-world problems.</p>
+      <p>As a Full Stack Developer Trainee with a strong foundation in programming, I'm passionate about building dynamic, responsive applications. My journey is driven by curiosity and a desire to create software solutions that solve real-world problems.</p>
     </td>
     <td width="40%">
       <h3>🎓 Education</h3>
@@ -74,7 +74,7 @@
 ## 🛠️ Tech Stack Visualization
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,bootstrap,nodejs,reactjs, typescript,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,bootstrap,nodejs,reactjs,typescript,git,github" />
 </div>
 
 ### 📈 Career Timeline
