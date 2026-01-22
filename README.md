@@ -2,12 +2,10 @@
 
 <div align="center">
 
-  <!-- Hero Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=VAMSHI%20MANTHRI&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
   <br>
 
-  <!-- Badges -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=manthrivamshi8919&style=flat-square&color=blue" />
     <a href="https://www.linkedin.com/in/vamshimanthri123" target="_blank">
@@ -29,120 +27,117 @@
 ---
 
 ## 🌟 About Me  
-<table>
-  <tr>
-    <td width="60%">
-      <p>
-        I’m a Computer Science & Engineering graduate with hands‑on industry experience as a Full Stack & Generative AI Engineer. 
-        I build scalable web apps, robust APIs, and AI‑powered systems like LLM apps, RAG pipelines, and multi‑agent workflows.
-      </p>
-    </td>
-    <td width="40%">
-      <h3>🎓 Education</h3>
-      <ul>
-        <li>B.Tech in Computer Science (2021‑2025)</li>
-        <li>Jayamukhi Institute of Technological Sciences</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+I’m a Computer Science & Engineering graduate with hands‑on industry experience as a Full Stack & Generative AI Engineer.  
+I build scalable web applications and AI‑powered systems (LLM apps, RAG pipelines, multi‑agent workflows).  
+Currently, I’m a **Junior Full Stack Developer Intern @ X360 Technologies** and a **Star Performer Awardee** (2 consecutive months).
 
 ---
 
 ## ⚡ Quick Highlights  
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎯 Focus</h3>
-      <p>Full‑stack systems, scalable backend architecture, and GenAI integration in real products.</p>
-    </td>
-    <td width="50%">
-      <h3>🏆 Achievements</h3>
-      <ul>
-        <li>Star Performer Award (2 months)</li>
-        <li>Junior Full Stack Developer Intern @ X360 Technologies</li>
-        <li>Built AI apps with LLMs, RAG, and multi‑agent systems</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 💼 **Junior Full Stack Developer Intern — X360 Technologies**  
+- ⭐ **Star Performer Award** (2 months)  
+- 🧠 LLMs, RAG, multi‑agent systems  
+- 🌐 Full stack product development  
 
 ---
 
-## 🧩 Core Tech Stack  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,express,mongodb,js,python,git,github" />
-</div>
+## 🧩 Core Technologies  
+**Frontend:** React, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Express, MongoDB, REST APIs, JWT  
+**AI/GenAI:** LLMs, LangChain, RAG, Vector Databases  
+**Languages:** Java, Python, JavaScript  
 
 ---
 
-## 🔧 Core Technologies  
-- **Frontend:** React, TypeScript, Tailwind CSS  
-- **Backend:** Node.js, Express, MongoDB, REST APIs, JWT  
-- **AI/GenAI:** LLMs, LangChain, RAG, Vector Databases  
-- **Languages:** Java, Python, JavaScript  
+## 🛠️ Skills (Portfolio Categories)
+- **Frontend:** CSS3, React, HTML5, JavaScript, TypeScript, Tailwind  
+- **Backend:** Node.js, Express, MongoDB, REST API, JWT  
+- **Core Programming:** Java, Python  
+- **Machine Learning:** ML, Scikit‑learn, NumPy, Pandas  
+- **Generative AI:** LLMs, Prompt Engineering, LangChain, NLP  
+- **Advanced AI Systems:** Agentic AI, Multi‑Agent, RAG, Pinecone  
+
+---
+
+## 🎓 Education  
+- **B.Tech in CSE** — Jayamukhi Institute of Technology and Science (2021‑2025) — CGPA 8.5  
+- **Intermediate (MPC)** — Sai Sri Junior College (2019‑2021) — 86.8%  
+- **SSC** — Kerala High School (2019) — CGPA 9.7  
+
+---
+
+## 💼 Experience  
+**Junior Full Stack Developer Intern — X360 Technologies (2025‑Present)**  
+- Scalable web applications  
+- React, JavaScript, TypeScript, Node.js, Cosmos DB  
+- REST APIs + JWT auth  
+- Production‑ready modules  
+- Client‑facing features  
 
 ---
 
 ## 🚀 Featured Projects  
-<div align="center">
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Links</th>
-    </tr>
-    <tr>
-      <td><b>QuizGen AI</b></td>
-      <td>AI‑powered quiz generator with analytics & dynamic creation</td>
-      <td>
-        <a href="https://quizgen-ai-yi8u.onrender.com/" target="_blank">Live</a> |
-        <a href="https://github.com/manthrivamshi8919/QuizGen-AI" target="_blank">Code</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>ProfileMagnet</b></td>
-      <td>LinkedIn optimization website with premium UI/UX</td>
-      <td>
-        <a href="https://profilemagnet.pages.dev/" target="_blank">Live</a> |
-        <a href="https://github.com/manthrivamshi8919/ProfileMagnet" target="_blank">Code</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Code Generator</b></td>
-      <td>Groq LLM‑powered code generation app (Streamlit)</td>
-      <td>
-        <a href="https://github.com/manthrivamshi8919/Code_Generation_LLM.git" target="_blank">Code</a>
-      </td>
-    </tr>
-  </table>
-</div>
+1. **QuizGen AI**  
+   AI quiz generator with analytics  
+   **Live:** https://quizgen-ai-yi8u.onrender.com/  
+   **Code:** https://github.com/manthrivamshi8919/QuizGen-AI  
+
+2. **ProfileMagnet**  
+   LinkedIn optimization website  
+   **Live:** https://profilemagnet.pages.dev/  
+   **Code:** https://github.com/manthrivamshi8919/ProfileMagnet  
+
+3. **Code Generator**  
+   LLM code generation app (Streamlit + Groq)  
+   **Code:** https://github.com/manthrivamshi8919/Code_Generation_LLM.git  
+
+4. **Smart AI Budget Assistant**  
+   AI personal finance management  
+   **Code:** https://github.com/manthrivamshi8919/smart-ai-budget-assistant-genai.git  
+
+5. **SharePoint File Agent**  
+   File discovery + upload automation (MS Graph + MSAL)  
+   **Code:** https://github.com/manthrivamshi8919/agent-file-sharepoint-onedrive-uploader.git  
+
+6. **LangChain Chatbot (Hugging Face)**  
+   Mistral‑7B chatbot with Streamlit UI  
+   **Code:** https://github.com/manthrivamshi8919/langchain-chatbot-huggingface-api.git  
+
+7. **Blockchain Blood Donation System**  
+   Ethereum + IPFS + Java/J2EE  
+   **Code:** https://github.com/manthrivamshi8919/Block-Chain-Based-Management-Of-Blood-Donation  
+
+8. **Health Monitoring on Social Media**  
+   Twitter health trend analysis with TM–ATAM / T–ATAM  
+   **Code:** https://github.com/manthrivamshi8919/Health-Monitoring-On-Social-Media-Over-Time-project  
+
+9. **Task Management App**  
+   CRUD app with React + REST APIs  
+   **Code:** https://github.com/manthrivamshi8919/Task-Management-Application  
+
+10. **YouTube Clone (Static)**  
+   UI clone using HTML/CSS  
+   **Live:** https://manthrivamshi8919.github.io/YouTube-Clone/  
 
 ---
 
-## 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manthrivamshi8919&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=manthrivamshi8919&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthrivamshi8919&layout=compact&theme=tokyonight" height="170"/>
-</div>
+## 🏆 Certifications  
+- **AI & Cloud Virtual Internship** — Edunet Foundation (AICTE)  
+- **Full Stack Development Internship** — EY / Edunet  
+- **AI & ML in IoT Workshop** — NIT Warangal  
 
 ---
 
-## 🤝 Connect With Me  
-<div align="center">
-  <a href="https://www.linkedin.com/in/vamshimanthri123" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:manthrivamshi1@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-</div>
+## 📫 Contact  
+- **Email:** manthrivamshi1@gmail.com  
+- **Phone:** +91 8919859787  
+- **Location:** Sircilla, Telangana, India  
+- **LinkedIn:** https://www.linkedin.com/in/vamshimanthri123  
+- **GitHub:** https://github.com/manthrivamshi8919  
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,12&height=100&section=footer" width="100%"/>
-  <b>Thanks for visiting my profile — let's build something impactful!</b>
+  <b>Thanks for visiting — let’s build something impactful!</b>
 </div>
