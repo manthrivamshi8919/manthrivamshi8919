@@ -79,43 +79,42 @@ Currently, I’m a **Junior Full Stack Developer Intern @ X360 Technologies** an
 ## 🚀 Featured Projects  
 1. **QuizGen AI**  
    AI quiz generator with analytics  
-   **Live:** https://quizgen-ai-yi8u.onrender.com/  
-   **Code:** https://github.com/manthrivamshi8919/QuizGen-AI  
-
-2. **ProfileMagnet**  
+   **Live:** https://quizgen-ai-yi8u.onrender.com/
+   
+3. **ProfileMagnet**  
    LinkedIn optimization website  
    **Live:** https://profilemagnet.pages.dev/  
-   **Code:** https://github.com/manthrivamshi8919/ProfileMagnet  
+  
 
-3. **Code Generator**  
+4. **Code Generator**  
    LLM code generation app (Streamlit + Groq)  
    **Code:** https://github.com/manthrivamshi8919/Code_Generation_LLM.git  
 
-4. **Smart AI Budget Assistant**  
+5. **Smart AI Budget Assistant**  
    AI personal finance management  
    **Code:** https://github.com/manthrivamshi8919/smart-ai-budget-assistant-genai.git  
 
-5. **SharePoint File Agent**  
+6. **SharePoint File Agent**  
    File discovery + upload automation (MS Graph + MSAL)  
    **Code:** https://github.com/manthrivamshi8919/agent-file-sharepoint-onedrive-uploader.git  
 
-6. **LangChain Chatbot (Hugging Face)**  
+7. **LangChain Chatbot (Hugging Face)**  
    Mistral‑7B chatbot with Streamlit UI  
    **Code:** https://github.com/manthrivamshi8919/langchain-chatbot-huggingface-api.git  
 
-7. **Blockchain Blood Donation System**  
+8. **Blockchain Blood Donation System**  
    Ethereum + IPFS + Java/J2EE  
    **Code:** https://github.com/manthrivamshi8919/Block-Chain-Based-Management-Of-Blood-Donation  
 
-8. **Health Monitoring on Social Media**  
+9. **Health Monitoring on Social Media**  
    Twitter health trend analysis with TM–ATAM / T–ATAM  
    **Code:** https://github.com/manthrivamshi8919/Health-Monitoring-On-Social-Media-Over-Time-project  
 
-9. **Task Management App**  
+10. **Task Management App**  
    CRUD app with React + REST APIs  
    **Code:** https://github.com/manthrivamshi8919/Task-Management-Application  
 
-10. **YouTube Clone (Static)**  
+11. **YouTube Clone (Static)**  
    UI clone using HTML/CSS  
    **Live:** https://manthrivamshi8919.github.io/YouTube-Clone/  
 
